@@ -1,0 +1,2 @@
+# pluginator
+Wordpress plugin generator
